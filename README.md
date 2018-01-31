@@ -14,9 +14,9 @@ If you *do* have any of these materials available, feel free to submit a pull re
 ## Guidelines for filing a good issue
 To ensure that your proposal receives the attention it deserves, there are some basic guidelines you should follow:
 
-  - Do a quick search for your proposal before posting, and if there's an open conversation please join it instead.
+  - Do a quick [search](https://github.com/immersive-web/ideas/issues?q=is%3Aissue) for your proposal before posting, and if there's an open conversation please join it instead.
   - Give your issue a descriptive title. "VR idea" will likely get ignored and closed. "Better VR video" is slightly more descriptive, but still very ambiguous. "Efficient video playback via XRLayers" is great.
-  - Your proposal should suggest a direction for addressing the issue. Stating "I think WebXR content should be faster." isn't particularly helpful, while "Technology X is now available, which can improve render times. It could potentially be exposed to WebXR like this..." is a much more effective starting point for a conversation.
+  - Your proposal should suggest a direction for addressing the issue. Stating "I think WebXR content should be faster." isn't particularly helpful, while "Technology X is now available, which can improve render times. It could potentially be exposed to WebXR like this..." is a much more effective starting point for a conversation. However, please be open to alternative approaches and healthy discussion. (See [Code of Conduct](#code-of-conduct).)
   - Describing realistic use cases for your proposal is always plus!
 
 ## Lifetime of a proposal
@@ -31,8 +31,8 @@ The exact path any given proposal takes is highly dependent on the context and s
 ## What belongs here vs. in another repo/standards group/issue tracker
 There are a lot of different places that ideas for web standards could be proposed, so at times it may not be clear where the best place is to start. There are no hard and fast rules, but here are some things to consider:
 
-  - If your proposal isn't in some way related to Immersive Web technologies (Virtual Reality, Augmented Reality, Mixed Reality, etc.), then this probably isn't the place for it. Consider checking out the [W3C Community and Business Groups](https://www.w3.org/community/) if you don't know of an existing standard that your proposal fits under.
-  - Similarly, if your proposal is related to the Immersive Web but useful in other contexts as well (i.e., Geolocation improvements), then it should be probably be handled by a group that's less exclusively focused on Immersive Web tech.
+  - If your proposal isn't in some way related to Immersive Web technologies (Virtual Reality, Augmented Reality, Mixed Reality, etc.), then this probably isn't the place for it. Consider checking out the [W3C Community and Business Groups](https://www.w3.org/community/) if you don't know of an existing incubation or specification that your proposal fits under. The [Web Incubator Community Group (WICG)](https://wicg.io/) is a good general-purpose venue.
+  - Similarly, if your proposal is related to the Immersive Web but useful in other contexts as well (i.e., Geolocation improvements), then it should be probably be handled by a group that's less exclusively focused on Immersive Web tech. Feel free to add a note where appropriate to let the Immersive Web community know about a relevant effort.
   - If you have an issue with a specific spec, open an issue on that spec first.
 
 So what happens if you get it wrong? Nothing bad! We'll point you towards a more appropriate venue if necessary and, when possible, help migrate the issue for you. And please don't assume that a request to continue discussion of your issue elsewhere is a criticism, we genuinely want to ensure that your idea is reaching the right audience!
