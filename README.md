@@ -3,7 +3,7 @@
 ## What is this repo for?
 This repo serves as a discussion board for early proposals for additions and improvements to Immersive Web functionality.
 
-## I have an proposal! How do I get started?
+## I have a proposal! How do I get started?
 To get the ball rolling with a proposal, file an issue on this repo. That issue will host discussion for the proposal until such time that it's either given its own repo or closed as will not implement. Note that the issue does not have to have sustained discussion to remain open: It may take a while for some proposals to attract the attention necessary to move forward, and that's OK!
 
 ## Do I have to have a spec/explainer/proof of concept before posting an proposal?
@@ -14,19 +14,18 @@ If you *do* have any of these materials available, feel free to submit a pull re
 ## Guidelines for filing a good issue
 To ensure that your proposal receives the attention it deserves, there are some basic guidelines you should follow:
 
-  - Do a quick [search](https://github.com/immersive-web/ideas/issues?q=is%3Aissue) for your proposal before posting, and if there's an open conversation please join it instead.
-  - Give your issue a descriptive title. "VR idea" will likely get ignored and closed. "Better VR video" is slightly more descriptive, but still very ambiguous. "Efficient video playback via XRLayers" is great.
+  - Do a quick [search](https://github.com/immersive-web/proposals/issues?q=is%3Aissue) for your proposal before posting, and if there's an open conversation please join it instead.
+  - Give your issue a descriptive title. "VR idea" will likely get ignored and closed. "Better VR video" is slightly more descriptive, but still very ambiguous. "Proposal for handling protected video content" is a far more informative title.
   - Your proposal should suggest a direction for addressing the issue. Stating "I think WebXR content should be faster." isn't particularly helpful, while "Technology X is now available, which can improve render times. It could potentially be exposed to WebXR like this..." is a much more effective starting point for a conversation. However, please be open to alternative approaches and healthy discussion. (See [Code of Conduct](#code-of-conduct).)
-  - Describing realistic use cases for your proposal is always plus!
+  - Describing real world use cases for your proposal is always plus! What would it enable that couldn't be done before, or improve over what can be done today?
 
 ## Lifetime of a proposal
 The exact path any given proposal takes is highly dependent on the context and scope of the proposal itself, but in general you should expect a successful proposal to go through the following:
 
   - Open an issue on this repository describing your proposal.
   - Gather support from other contributors, including ideally at least one or two browser vendors.
-  - Proposals with enough support and a clear technical direction can request that a repository be created under the immersive-web organization. (Alternatively an external repository can be transferred to the immersive-web organization.) The repo will be flagged as being in incubation.
-  - Development of the idea will continue on the repository until it's ready to be promoted out of incubation state.
-  - At that point, the idea's repo will either have the incubation flag removed or be merged into another repo as appropriate.
+  - Proposals with enough support and a clear technical direction can request that a repository be created under the immersive-web organization. (Alternatively an external repository can be transferred to the immersive-web organization.) The repo will be labeled as being in incubation.
+  - Development of the idea will continue on the repository until it's ready to be integrated into another incubation or promoted out of incubation state (e.g., to a WG).
   
 ## What belongs here vs. in another repo/standards group/issue tracker
 There are a lot of different places that ideas for web standards could be proposed, so at times it may not be clear where the best place is to start. There are no hard and fast rules, but here are some things to consider:
