@@ -39,4 +39,4 @@ So what happens if you get it wrong? Nothing bad! We'll point you towards a more
 ## Code of Conduct
 **TL;DR: Treat other participants with respect or get banned.**
 
-This repository is explicitly for *open discussion of ideas* for making the Immersive Web better, which is best fostered by an environment where said discussion is respectful. As such, every person participating on this repo (and all other Immersive Web repos, for that matter) is expected to follow our [Code of Conduct](https://github.com/immersive-web/need_a_link_here). Please read it prior to contributing.
+This repository is explicitly for *open discussion of ideas* for making the Immersive Web better, which is best fostered by an environment where said discussion is respectful. As such, every person participating on this repo (and all other Immersive Web repos, for that matter) is expected to follow our [Code of Conduct](https://github.com/immersive-web/community-resources/blob/master/CODE_OF_CONDUCT.md). Please read it prior to contributing.
