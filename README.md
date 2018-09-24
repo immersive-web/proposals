@@ -73,7 +73,7 @@ Ideally, you'll have prototypes that work on different platforms so it's clear t
 
 During this process you should reach out to a CG chair and start the work of finding or creating a W3C working group that is a good fit for the feature.
 
-## Our feature's details and nailed down and we have working prototypes. Now what?
+## Our feature's details are nailed down and we have working prototypes. Now what?
 
 At this point, you've reached the end of what the community group can do. Now you have to convince a working group to take on your feature and turn it into a standard. All of the community rallying, document writing, and prototyping comes together to convince the W3C that this feature is important and good to go.  
 
