@@ -16,16 +16,21 @@ This repository is for *open discussion of ideas* for making the Immersive Web b
 
 ## How does a feature idea become a standard?
 
+The Immersive Web groups discussions take place in [Proposals Issues](https://github.com/immersive-web/proposals/issues) and in feature incubation repos.
+
+You can find feature incubation repos by going to the [Immersive Web GitHub org](https://github.com/immersive-web) and looking for repos tagged with "incubation".
+
 An immersive web feature goes through several steps to move from idea to standard:
 
-- File a Proposals Issue
+- File a [Proposals Issue](https://github.com/immersive-web/proposals/issues)
 - Find Consensus for the Idea
 - Recruit Feature Advocates
 - Create a Feature Repo
 - Write an Explainer
 - Find Consensus for Feature Details
 - Recruit Implementers
-- Pitch to a Working Group
+- Pitch to a Working Group (may or may not be the Immersive Web WG)
+- Working Group incorporates the idea into a standard
 
 **Most of the work of landing a feature is social, not technical.**
 
