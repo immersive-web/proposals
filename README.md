@@ -56,6 +56,15 @@ Terrific! You did the hard work of getting enough momentum in the group to figur
 
 Once two or three people from separate organizations have volunteered to work on the feature then you should reach out to a CG chair and ask that a feature repo be created.
 
+To summarize, here are the criteria we use for feature incubation repos:
+
+- Are there clear goals for the feature, like a specific API or document?
+- Have people from more than one organization participated in defining the goals?
+- Is the feature narrow enough that work on it has a definite end point?
+- Is there at least one (ideally two) feature advocate(s) signed up to do the work?
+
+*discussion will continue in the Issues until these criteria are met*
+
 ## A CG chair made a new feature repo. Now what?
 
 One goal of the repo is to work through the specific details of a feature with enough detail that it's clearly possible to implement and it's attractive to the relevant Working Group.
