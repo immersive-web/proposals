@@ -20,21 +20,21 @@ body:
       placeholder: descriptive title
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: Summary
     attributes:
       label: Summary of proposal
       description: One or two paragraphs listing the problem being solved and the target audience for the idea.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: usecase
     attributes:
       label: Example use cases
       description: Two or three examples of an end user with goals and a step-by-step description of how the proposed idea solves helps them achieve the goal.
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: implementation
     attributes:
       label: A rough idea or two about implementation
