@@ -39,5 +39,5 @@ body:
     attributes:
       label: A rough idea or two about implementation
       description: One or two paragraphs about how the feature might be implemented, mostly to help clarify how you're thinking about the problem space and the underlying technologies that could solve the problems.
-      validations:
+    validations:
       required: true
